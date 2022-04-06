@@ -1,8 +1,8 @@
 function App() {
   return (
-    <div className="flex justify-center align-middle">
+    <main className="flex justify-center align-middle" data-testid="app body">
       <h1 className="text-xl">Welcome to vite-react-docker-tailwind</h1>
-    </div>
+    </main>
   )
 }
 
